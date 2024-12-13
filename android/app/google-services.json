@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218156546523",
+    "project_id": "userlist-764a8",
+    "storage_bucket": "userlist-764a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218156546523:android:bdfaaf9ee1b411bd74cffe",
+        "android_client_info": {
+          "package_name": "com.example.brototypeuserlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCxJl8-0EvrIaoWc64PIW4H-O6_JB2YKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
